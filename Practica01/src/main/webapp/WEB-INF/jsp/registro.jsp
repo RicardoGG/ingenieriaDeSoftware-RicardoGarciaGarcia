@@ -1,8 +1,4 @@
-<%-- 
-    Document   : registro
-    Created on : 25-feb-2017, 17:04:43
-    Author     : Antonio
---%>
+
 
 <%@ page import="java.util.Calendar" %>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
